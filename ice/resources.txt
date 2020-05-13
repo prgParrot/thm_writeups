@@ -1,0 +1,3 @@
+Nmap usage cheat sheats:
+	https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
+	https://nmap.org/book/man-output.html
